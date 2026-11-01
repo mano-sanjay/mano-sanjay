@@ -1,8 +1,8 @@
-<h1 align="center">👑 Mano C — Monkey D Luffy</h1>
-<h3 align="center">Future King Of Hackers | Linux Warrior | C Programmer</h3>
+<h1 align="center">Mano C — Monkey D Luffy</h1>
+<h3 align="center">Future King Of Hackers</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Arch+Linux+User;C+Programmer;C%2B%2B+Programmer;Python+Programmer;Cyber+Security;Building+Logic+Everyday">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Python+Programmer;Cyber+Security">
 </p>
 
 ---
